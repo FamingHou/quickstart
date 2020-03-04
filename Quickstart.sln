@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F3762C6-8FE7-4CF7-8FB5-CB783EF1AF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "src\IdentityServer\IdentityServer.csproj", "{191F91EF-431A-49D9-B426-10FFAD591F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|x64.Build.0 = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Debug|x86.Build.0 = Debug|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|x64.ActiveCfg = Release|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|x64.Build.0 = Release|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|x86.ActiveCfg = Release|Any CPU
+		{191F91EF-431A-49D9-B426-10FFAD591F55}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{191F91EF-431A-49D9-B426-10FFAD591F55} = {0F3762C6-8FE7-4CF7-8FB5-CB783EF1AF8F}
+	EndGlobalSection
+EndGlobal
